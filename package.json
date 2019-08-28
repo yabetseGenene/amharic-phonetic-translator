@@ -1,6 +1,6 @@
 {
   "name": "amharic-phonetic-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "English to Amharic translator that uses a simple rule based phoneme substituiton.\nProvides a set translated of choices based on the phonemes it predicts.",
   "main": "index.js",
   "scripts": {
