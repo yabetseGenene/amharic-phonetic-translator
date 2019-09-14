@@ -1,4 +1,4 @@
-# Amharic Phonetic Translator [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# Amharic Phonetic Translator
 
 PhonemeTranslator uses simple phoneme extraction and substitution to translate Amharic word pronunciations written in English to the actual Amharic text representation. It divides the text into sounds that distinguish word meanings based on the seven vowel phonemes in Amharic. Furthermore, Amharic has a rich consonant system. A distinguishing feature of consonants in Amharic is the presence of emphatic sounds which are produced with the root of the tongue retracted. All sounds are represented either with a set of english consonant letters or a combination of consonants and a vowel.
 
